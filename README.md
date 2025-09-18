@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Onelight123
-- 👀 I’m interested in coding
+- 👀 I’m interested in coding and cyber
 - 🌱 I’m currently learning Java script, CSS, Python, Html
 - i like cybersecurity
 <!---
