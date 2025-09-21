@@ -23,24 +23,24 @@
 
 ---
 
-## 🌐 Socials & Contact
+## 🌐 Contact
 
 <div align="left">
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="YouTube" /></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" /></a>
-  <a href="https://www.twitch.tv/"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" /></a>
-  <a href="https://discord.com/"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" /></a>
-  <a href="mailto:example@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
+  onelight8297
 </div>
 
 ---
 
-## 📫 How to Reach Me
+## 📊 GitHub Stats
 
-- Email: [example@gmail.com](mailto:example@gmail.com)  
-- Discord: `onelight123#0000`  
-- LinkedIn: [Votre Profil LinkedIn](https://www.linkedin.com/)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=onelight123&show_icons=true&theme=dark&hide_border=true" alt="onelight123 GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelight123&layout=compact&theme=dark&hide_border=true" alt="onelight123 Top Languages" />
+</p>
 
 ---
 
