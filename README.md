@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm onelight123</h1>
-<h3 align="center">A passionate developer working with Python, JavaScript, Node.js, HTML & CSS</h3>
+<h3 align="center">A French Developer studying Cybersecurity & Programming Languages</h3>
 
 <p align="center">
   <img src="https://i.imgflip.com/65efzo.gif" height="150" align="right" />
@@ -9,7 +9,7 @@
 
 ## 💻 Tech Stack
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -19,13 +19,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
 ---
 
-## 🌐 Contact
+## 🌐 Contact Me
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   onelight8297
 </div>
@@ -52,17 +56,28 @@
 
 ---
 
-## ⚡ Badges & Achievements
+## ⚡ Achievements & Badges
 
 <div align="center">
   <img src="https://img.shields.io/badge/Commits-🔥%20Active-brightgreen" alt="Commits Active" />
   <img src="https://img.shields.io/badge/PRs-✏️%20Merged-blue" alt="PRs Merged" />
   <img src="https://img.shields.io/badge/Issues-🐛%20Resolved-orange" alt="Issues Resolved" />
   <img src="https://img.shields.io/badge/Stars-⭐%20Collected-yellow" alt="Stars Collected" />
+  <img src="https://img.shields.io/badge/Cybersecurity-🔒%20Learning-purple" alt="Cybersecurity" />
+  <img src="https://img.shields.io/badge/Languages-🌐%20Learning-red" alt="Languages" />
 </div>
 
 ---
 
+## 🚀 About Me
+
+- 👨‍💻 Currently learning **Cybersecurity** and **Advanced Programming**  
+- 🌍 Fluent in **French**, learning **English**  
+- 💡 Love exploring **new programming languages** and tools  
+- 🎯 Focused on building **secure, scalable, and modern apps**  
+
+---
+
 <p align="center">
-  🚀 Thanks for visiting my profile! Follow me to see my latest projects and contributions.
+  🌟 Let's build something amazing together! 🚀
 </p>
