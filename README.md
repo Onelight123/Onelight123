@@ -35,15 +35,34 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=onelight123&show_icons=true&theme=dark&hide_border=true" alt="onelight123 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=onelight123&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelight123&layout=compact&theme=dark&hide_border=true" alt="onelight123 Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onelight123&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=onelight123&theme=react-dark&hide_border=false&area=true" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=onelight123.onelight123" alt="Profile Views" />
 </p>
 
 ---
 
+## ⚡ Badges & Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Commits-🔥%20Active-brightgreen" alt="Commits Active" />
+  <img src="https://img.shields.io/badge/PRs-✏️%20Merged-blue" alt="PRs Merged" />
+  <img src="https://img.shields.io/badge/Issues-🐛%20Resolved-orange" alt="Issues Resolved" />
+  <img src="https://img.shields.io/badge/Stars-⭐%20Collected-yellow" alt="Stars Collected" />
+</div>
+
+---
+
 <p align="center">
-  🚀 Thanks for visiting my profile! Follow me to see my latest projects.
+  🚀 Thanks for visiting my profile! Follow me to see my latest projects and contributions.
 </p>
