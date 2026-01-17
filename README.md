@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm onelight123</h1>
 <h3 align="center">A French Developer studying Cybersecurity & Programming Languages</h3>
 
-<p align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" align="right" />
-</p>
+
 
 ---
 
