@@ -29,7 +29,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  onelight8297
+  onelight
 </div>
 
 ---
