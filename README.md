@@ -77,6 +77,4 @@
   </a>
 </p>
 
-<p align="left">
-  <sub>« Break it to understand it. Fix it to master it. »</sub>
-</p>
+
