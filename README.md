@@ -16,22 +16,6 @@
 
 ---
 
-### `~$ whoami`
-
-```txt
-> Étudiant français passionné par la cybersécurité offensive.
-> J'apprends à comprendre comment les systèmes fonctionnent,
-> comment ils cassent, et comment les rendre plus solides.
-> Objectif : pentester.
-```
-
-- 🎯 **Objectif court terme** — monter en niveau sur HTB & THM, builder mes premiers outils
-- 🎯 **Objectif long terme** — devenir pentester professionnel
-- 📚 **En cours d'apprentissage** — réseau, scripting offensif, web exploitation
-- 🤝 **Ouvert à** — collabs, CTF en équipe, échanges techniques
-
----
-
 ### Stack
 
 | Domaine | Technos |
@@ -77,4 +61,6 @@
   </a>
 </p>
 
-
+<p align="left">
+  <sub>« Break it to understand it. Fix it to master it. »</sub>
+</p>
