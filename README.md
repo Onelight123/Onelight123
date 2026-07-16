@@ -20,7 +20,7 @@
 
 | Domaine | Technos |
 |---|---|
-| **Langages** | Python · Bash · JavaScript |
+| **Langages** | Python · Bash · JavaScript · TypeScript |
 | **OS / Env** | Linux (Kali, Debian) · Git · VS Code |
 | **Pentest** | Nmap · Wireshark · Burp Suite · Metasploit |
 | **Plateformes** | TryHackMe · Hack The Box · Root-Me |
