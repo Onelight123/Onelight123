@@ -30,23 +30,7 @@
 - J'apprends en construisant — mes projets sont mon terrain d'entraînement.
 - Objectif : **pentester** / red team.
 
----
 
-### Projet en avant — IcarusChat
-
-<p align="left">
-  <img src="https://img.shields.io/badge/IcarusChat-E2E%20Messenger-EF4444?style=for-the-badge&logo=signal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20%2B%20Desktop-Win%20%2F%20macOS%20%2F%20Linux-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/repo-priv%C3%A9-6E7681?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-> **Réseau social chiffré de bout en bout.** Messages, appels audio/vidéo, serveurs & canaux de diffusion.
-> Crypto : `X25519` · `XSalsa20-Poly1305` · `Argon2id` · passkeys (WebAuthn) · 2FA TOTP.
-> Serveur *zéro-connaissance* — il ne voit jamais que du texte chiffré.
-
-<!-- Repo privé → la carte "pin" GitHub ne peut pas s'afficher (l'API ne lit que les repos publics). -->
-
----
 
 ### Stack & outils
 
