@@ -3,15 +3,10 @@
   (crée un repo public nommé EXACTEMENT comme ton pseudo, avec un README.md → il s'affiche sur ton profil)
 -->
 
-<h1 align="left">
-  Salut, moi c'est Onelight123
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-</h1>
+<h1 align="left">Onelight123</h1>
 
 <p align="left">
-  <a href="https://github.com/Onelight123">
-    <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=22&pause=1000&color=EF4444&width=560&lines=%C3%89tudiant+en+cybers%C3%A9curit%C3%A9;Futur+pentester+%E2%80%A2+Offensive+Security;Je+casse%2C+je+comprends%2C+je+r%C3%A9pare" alt="typing" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=22&pause=1000&color=EF4444&width=560&lines=%C3%89tudiant+en+cybers%C3%A9curit%C3%A9;S%C3%A9curit%C3%A9+offensive+%E2%80%A2+Pentest;R%C3%A9seau+%E2%80%A2+Web+%E2%80%A2+Reverse" alt="typing" />
 </p>
 
 <p align="left">
@@ -26,13 +21,13 @@
 
 ### À propos
 
-- Je me spécialise en **sécurité offensive** : réseau, web, reverse et crypto appliquée.
-- J'apprends en construisant — mes projets sont mon terrain d'entraînement.
-- Objectif : **pentester** / red team.
+- Étudiant en **cybersécurité**, orienté **sécurité offensive** : réseau, web, reverse et crypto appliquée.
+- J'apprends en profondeur : comprendre les systèmes pour mieux les tester et les défendre.
+- Objectif : **pentester / red team**.
 
+---
 
-
-### Stack & outils
+### Compétences
 
 **Langages**
 
@@ -42,15 +37,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-**OS & environnement**
+**Systèmes & outils**
 
 ![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-**Pentest**
+**Sécurité offensive**
 
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -65,7 +60,7 @@
 
 ---
 
-### Stats
+### Statistiques
 
 <table>
   <tr>
@@ -78,7 +73,7 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onelight123&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&exclude_repo=github-readme-stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onelight123&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Onelight123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" width="100%" />
 
@@ -90,15 +85,13 @@
 
 ---
 
-### Contact
+### Me contacter
 
 <p align="left">
-  <a href="https://discord.com/users/onelight">
-    <img src="https://img.shields.io/badge/Discord-onelight-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
   <a href="https://github.com/Onelight123">
     <img src="https://img.shields.io/badge/GitHub-Onelight123-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://discord.com/users/onelight">
+    <img src="https://img.shields.io/badge/Discord-onelight-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
-
-<sub>« Move fast, break <em>your own</em> things, learn faster. »</sub>
