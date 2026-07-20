@@ -30,6 +30,23 @@
 - J'apprends en construisant — mes projets sont mon terrain d'entraînement.
 - Objectif : **pentester** / red team.
 
+---
+
+### Projet en avant — IcarusChat
+
+<p align="left">
+  <img src="https://img.shields.io/badge/IcarusChat-E2E%20Messenger-EF4444?style=for-the-badge&logo=signal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20%2B%20Desktop-Win%20%2F%20macOS%20%2F%20Linux-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/repo-priv%C3%A9-6E7681?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+> **Réseau social chiffré de bout en bout.** Messages, appels audio/vidéo, serveurs & canaux de diffusion.
+> Crypto : `X25519` · `XSalsa20-Poly1305` · `Argon2id` · passkeys (WebAuthn) · 2FA TOTP.
+> Serveur *zéro-connaissance* — il ne voit jamais que du texte chiffré.
+
+<!-- Repo privé → la carte "pin" GitHub ne peut pas s'afficher (l'API ne lit que les repos publics). -->
+
+---
 
 ### Stack & outils
 
@@ -72,7 +89,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Onelight123&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&card_width=420" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Onelight123&hide_border=true&theme=tokyonight" />
+      <img src="https://streak-stats.demolab.com/?user=Onelight123&hide_border=true&theme=tokyonight" />
     </td>
   </tr>
 </table>
