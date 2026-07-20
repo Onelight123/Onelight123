@@ -30,18 +30,6 @@
 - J'apprends en construisant — mes projets sont mon terrain d'entraînement.
 - Objectif : **pentester** / red team.
 
----
-
-### Projet en avant — IcarusChat
-
-> Réseau social **chiffré de bout en bout** (E2E) : messages, appels, serveurs & canaux. Web + desktop Windows / macOS / Linux.
-> Crypto : X25519 · XSalsa20-Poly1305 · Argon2id · passkeys (WebAuthn) · 2FA TOTP. Serveur *zéro-connaissance*.
-
-<a href="https://github.com/Onelight123/IcarusChat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Onelight123&repo=IcarusChat&theme=tokyonight&hide_border=true" />
-</a>
-
----
 
 ### Stack & outils
 
