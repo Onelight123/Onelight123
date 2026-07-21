@@ -100,4 +100,4 @@
   </a>
 </p>
 
-<sub>« Move fast, break <em>your own</em> things, learn faster. »</sub>
+
