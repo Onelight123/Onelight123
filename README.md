@@ -27,9 +27,6 @@
 ### À propos
 
 - Je me spécialise en **sécurité offensive** : réseau, web, reverse et crypto appliquée.
-- J'apprends en construisant — mes projets sont mon terrain d'entraînement.
-- Objectif : **pentester** / red team.
-
 
 ### Stack & outils
 
