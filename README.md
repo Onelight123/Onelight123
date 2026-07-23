@@ -4,7 +4,7 @@
 -->
 
 <h1 align="left">
-  Salut, moi c'est Onelight123
+  Salut, moi c'est Onelight
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 </h1>
 
