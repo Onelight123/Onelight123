@@ -93,7 +93,7 @@
     <img src="https://img.shields.io/badge/Discord-onelight-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://github.com/Onelight123">
-    <img src="https://img.shields.io/badge/GitHub-Onelight123-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-OnelightCyber-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
